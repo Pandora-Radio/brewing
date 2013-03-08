@@ -1,4 +1,209 @@
-<html><head><style type="text/css">ul { list-style-type:circle; }caption {     caption-side:bottom;     text-align: right;}h1 { 	font-size:36px;	font-weight:bold;	text-align:left;}h2{	font-size:18px;	font-weight:bold;	text-align:left;	border-bottom-style:solid;}h3{	font-size:14px;   text-align:left;   font-weight:normal;   border-bottom-width:1px;	border-bottom-style:solid;}h4{	font-size:12px;   text-align:left;   font-weight:normal;}img{	position:absolute;	right:0px;	top:0px;	z-index:-1;}#headerdiv{    padding-bottom:30px;}#header{	border-collapse:collapse;	width:100%;	empty-cells:hide;}#header td {	border: 0px solid white;	padding: 3px 7px 2px 7px;    empty-cells:hide;}#header td.label{    width:10%;    font-size:14px;	font-weight:bold;	text-align:left;}#header td.value{	width:60%;    font-size:14px;	font-weight:normal;	text-align:left;}#header caption{    font-size:36px;    caption-side:top;     text-align: left;}#title{	border-collapse:collapse;	width:100%;	empty-cells:hide;}#title td, #title th{	border: 0px solid white;	padding: 3px 7px 2px 7px;	empty-cells:show;}#title td.left{	width:10%;	font-weight:bold;	text-align:left;}#title td.value{	width:30%;	font-weight:normal;	text-align:left;}#title td.right{	width:20%;	font-weight:bold;	text-align:right;}#fermentables{	border-collapse:collapse;	width:100%;	empty-cells:hide;}#fermentables td{	border: 0px solid white;	padding: 3px 7px 2px 7px;	empty-cells:show;}#fermentables th{	border: 0px solid white;   padding: 3px 7px 2px 7px;   font-weight:bold;   text-align:left;   empty-cells:show;}#fermentables caption {    caption-side:bottom;    text-align: center;   font-weight:bold;   padding: 0.5em 0;}#hops{	border-collapse:collapse;	width:100%;	empty-cells:hide;}#hops td{	border: 0px solid white;	padding: 3px 7px 2px 7px;	empty-cells:show;}#hops th{	border: 0px solid white;    padding: 3px 7px 2px 7px;    font-weight:bold;    text-align:left;    empty-cells:show;}#hops caption {     caption-side:bottom;     text-align: center;    font-weight:bold;}#misc{	border-collapse:collapse;	width:100%;	empty-cells:hide;}#misc td{	border: 0px solid white;	padding: 3px 7px 2px 7px;	empty-cells:show;}#misc th{	border: 0px solid white;    padding: 3px 7px 2px 7px;    font-weight:bold;    text-align:left;    empty-cells:show;}#misc caption {     caption-side:bottom;     text-align: center;    font-weight:bold;}#yeast{	border-collapse:collapse;	width:100%;	empty-cells:hide;}#yeast td{	border: 0px solid white;	padding: 3px 7px 2px 7px;	empty-cells:show;}#yeast th{	border: 0px solid white;    padding: 3px 7px 2px 7px;    font-weight:bold;    text-align:left;    empty-cells:show;}#yeast caption {     caption-side:bottom;     text-align: center;    font-weight:bold;}#mash{	border-collapse:collapse;	width:100%;	empty-cells:hide;}#mash td{	border: 0px solid white;	padding: 3px 7px 2px 7px;	empty-cells:show;}#mash th{	border: 0px solid white;   padding: 3px 7px 2px 7px;   font-weight:bold;   text-align:left;   empty-cells:show;}#mash caption {     caption-side:bottom;     text-align: center;    font-weight:bold;}#instruction{    list-style-type:decimal;}#brewnote{	border-collapse:collapse;	width:100%;}#brewnote caption {    caption-side:top;    text-align: center;   font-weight:normal;   padding: 0.5em 0;}#brewnote td, #brewnote th{	border: 0px solid white;   padding: 3px 7px 2px 7px;	empty-cells:show;}#brewnote tr.alt{	color:black;	background-color:#e8e8e8;}#brewnote td.left{	width:20%;	font-weight:normal;	text-align:left;}#brewnote td.value{	width:30%;	font-weight:normal;	text-align:left;}#brewnote td.right{	width:20%;	font-weight:normal;	text-align:left;}</style></head><body><div id="headerdiv"><table id="header"><caption>Pandora Rye-PA - American IPA (14B)</caption><tr><td class="label">Brewer</td><td class="value">Team Yeasty</td></tr><tr><td class="label">Date</td><td class="value ">03/08/2013</td></tr></table><table id="title"><tr><td class="left">Batch Size</td><td class="value">5.000 gal</td><td class="right">Boil Size</td><td class="value">5.750 gal</td></tr><tr><td class="left">Boil Time</td><td class="value">60.000 min</td><td class="right">Efficiency</td><td class="value">70%</td></tr><tr><td class="left">OG</td><td class="value">1.062</td><td class="right">FG</td><td class="value">1.016</td></tr><tr><td class="left">ABV</td><td class="value">6.1%</td><td class="right">Bitterness</td><td class="value">18.8 IBU (Tinseth)</td></tr><tr><td class="left">Color</td><td class="value">7.2 srm (Morey)</td><td class="right">Calories (per 12 oz.)</td><td class="value">206</td></tr></table><h3>Fermentables</h3><table id="fermentables"><caption>Total grain: 12.500 lb</caption><tr><th>Name</th><th>Type</th><th>Amount</th><th>Mashed</th><th>Late</th><th>Yield</th><th>Color</th></tr><tr><td>Simpsons - Golden Promise</td><td>Grain</td><td>8.000 lb</td><td>Yes</td><td>No</td><td>81%</td><td>2.0 srm</td></tr><tr><td>Munich Malt - 10L</td><td>Grain</td><td>1.500 lb</td><td>Yes</td><td>No</td><td>77%</td><td>10.0 srm</td></tr><tr><td>Briess - Carapils Malt</td><td>Grain</td><td>12.000 oz</td><td>Yes</td><td>No</td><td>73%</td><td>1.3 srm</td></tr><tr><td>Caramel/Crystal Malt - 40L</td><td>Grain</td><td>4.000 oz</td><td>No</td><td>No</td><td>74%</td><td>40.0 srm</td></tr><tr><td>Oats, Flaked</td><td>Grain</td><td>8.000 oz</td><td>Yes</td><td>No</td><td>80%</td><td>1.0 srm</td></tr><tr><td>Rye Malt</td><td>Grain</td><td>1.500 lb</td><td>Yes</td><td>No</td><td>63%</td><td>5.0 srm</td></tr></table><h3>Hops</h3><table id="hops"><tr><th>Name</th><th>Alpha</th><th>Amount</th><th>Use</th><th>Time</th><th>Form</th><th>IBU</th></tr><tr><td>Sticklebract</td><td>4.1%</td><td>1.250 oz</td><td>Boil</td><td>60.000 min</td><td>Pellet</td><td>16.4</td></tr></tr><tr><td>Sticklebract</td><td>4.1%</td><td>0.500 oz</td><td>Boil</td><td>10.000 min</td><td>Pellet</td><td>2.4</td></tr></tr><tr><td>Sticklebract</td><td>4.1%</td><td>0.500 oz</td><td>Aroma</td><td>0.000 s</td><td>Pellet</td><td>0.0</td></tr></tr></table><h3>Misc</h3><table id="misc"><tr><th>Name</th><th>Type</th><th>Use</th><th>Amount</th><th>Time</th></tr><td>Whirlfloc</td><td>Fining</td><td>Boil</td><td>1.000 tsp</td><td>10.000 min</td></tr></table><h3>Yeast</h3><table id="yeast"><tr><th>Name</th><th>Type</th><th>Form</th><th>Amount</th><th>Stage</th></tr><tr><td>WLP001 - California Ale Yeast</td><td>Ale</td><td>Liquid</td><td>0.313 cup</td><td>Primary</td></tr></tr></table><h3>Mash</h3><table id="mash"><tr><th>Name</th><th>Type</th><th>Amount</th><th>Temp</th><th>Target Temp</th><th>Time</th></tr><tr><td>Single Infusion</td><td>Infusion</td><td>0.000 tsp</td><td>150.000 F</td><td>150.000 F</td><td>0.000 s</td></tr></table><h3>Notes</h3>This recipe is a variation on The Yeastie Boys' Digital IPA, which they so graciously have publish with a Creative Commons license!
-
+<html>
+<table id="header">
+<h2>Pandora Rye-PA - American IPA (14B)<h2>
+<tr>
+<td class="label">Brewer</td>
+<td class="value">Team Yeasty</td>
+</tr>
+<tr>
+<td class="label">Date</td>
+<td class="value">03/08/2013</td>
+</tr>
+</table>
+<table id="title">
+<tr>
+<td class="left">Batch Size</td>
+<td class="value">5.000 gal</td>
+<td class="right">Boil Size</td>
+<td class="value">5.750 gal</td>
+</tr>
+<tr>
+<td class="left">Boil Time</td>
+<td class="value">60.000 min</td>
+<td class="right">Efficiency</td>
+<td class="value">70%</td>
+</tr>
+<tr>
+<td class="left">OG</td>
+<td class="value">1.062</td>
+<td class="right">FG</td>
+<td class="value">1.016</td>
+</tr>
+<tr>
+<td class="left">ABV</td>
+<td class="value">6.1%</td>
+<td class="right">Bitterness</td>
+<td class="value">64.5 IBU (Tinseth)</td>
+</tr>
+<tr>
+<td class="left">Color</td>
+<td class="value">7.2 srm (Morey)</td>
+<td class="right">Calories (per 12 oz.)</td>
+<td class="value">206</td>
+</tr>
+</table>
+<h3>Fermentables</h3>
+<table id="fermentables">
+<caption>Total grain: 12.500 lb</caption>
+<tr>
+<th>Name</th>
+<th>Type</th>
+<th>Amount</th>
+<th>Mashed</th>
+<th>Late</th>
+<th>Yield</th>
+<th>Color</th>
+</tr>
+<tr>
+<td>Simpsons - Golden Promise</td>
+<td>Grain</td>
+<td>8.000 lb</td>
+<td>Yes</td>
+<td>No</td>
+<td>81%</td>
+<td>2.0 srm</td>
+</tr>
+<tr>
+<td>Munich Malt - 10L</td>
+<td>Grain</td>
+<td>1.500 lb</td>
+<td>Yes</td>
+<td>No</td>
+<td>77%</td>
+<td>10.0 srm</td>
+</tr>
+<tr>
+<td>Briess - Carapils Malt</td>
+<td>Grain</td>
+<td>12.000 oz</td>
+<td>Yes</td>
+<td>No</td>
+<td>73%</td>
+<td>1.3 srm</td>
+</tr>
+<tr>
+<td>Caramel/Crystal Malt - 40L</td>
+<td>Grain</td>
+<td>4.000 oz</td>
+<td>No</td>
+<td>No</td>
+<td>74%</td>
+<td>40.0 srm</td>
+</tr>
+<tr>
+<td>Oats, Flaked</td>
+<td>Grain</td>
+<td>8.000 oz</td>
+<td>Yes</td>
+<td>No</td>
+<td>80%</td>
+<td>1.0 srm</td>
+</tr>
+<tr>
+<td>Rye Malt</td>
+<td>Grain</td>
+<td>1.500 lb</td>
+<td>Yes</td>
+<td>No</td>
+<td>63%</td>
+<td>5.0 srm</td>
+</tr>
+</table>
+<h3>Hops</h3>
+<table id="hops">
+<tr>
+<th>Name</th>
+<th>Alpha</th>
+<th>Amount</th>
+<th>Use</th>
+<th>Time</th>
+<th>Form</th>
+<th>IBU</th>
+</tr>
+<tr>
+<td>Sticklebract</td>
+<td>14.1%</td>
+<td>1.250 oz</td>
+<td>Boil</td>
+<td>60.000 min</td>
+<td>Pellet</td>
+<td>56.3</td>
+</tr>
+<tr>
+<td>Sticklebract</td>
+<td>14.1%</td>
+<td>0.500 oz</td>
+<td>Boil</td>
+<td>10.000 min</td>
+<td>Pellet</td>
+<td>8.2</td>
+</tr>
+<tr>
+<td>Sticklebract</td>
+<td>14.1%</td>
+<td>0.500 oz</td>
+<td>Aroma</td>
+<td>0.000 s</td>
+<td>Pellet</td>
+<td>0.0</td>
+</tr>
+</table>
+<h3>Misc</h3>
+<table id="misc">
+<tr>
+<th>Name</th>
+<th>Type</th>
+<th>Use</th>
+<th>Amount</th>
+<th>Time</th>
+</tr>
+<tr>
+<td>Whirlfloc</td>
+<td>Fining</td>
+<td>Boil</td>
+<td>1.000 tsp</td>
+<td>10.000 min</td>
+</tr>
+</table>
+<h3>Yeast</h3>
+<table id="yeast">
+<tr>
+<th>Name</th>
+<th>Type</th>
+<th>Form</th>
+<th>Amount</th>
+<th>Stage</th>
+</tr>
+<tr>
+<td>WLP001 - California Ale Yeast</td>
+<td>Ale</td>
+<td>Liquid</td>
+<td>0.313 cup</td>
+<td>Primary</td>
+</tr>
+</table>
+<h3>Mash</h3>
+<table id="mash">
+<tr>
+<th>Name</th>
+<th>Type</th>
+<th>Amount</th>
+<th>Temp</th>
+<th>Target Temp</th>
+<th>Time</th>
+</tr>
+<tr>
+<td>Single Infusion</td>
+<td>Infusion</td>
+<td>0.000 tsp</td>
+<td>150.000 F</td>
+<td>150.000 F</td>
+<td>0.000 s</td>
+</tr>
+</table>
+<h3>Notes</h3>
+This recipe is a variation on The Yeastie Boys' Digital IPA, which
+they so graciously have publish with a Creative Commons license!
 http://yeastieboys.posterous.com/private/yCmgJxeHrs
-http://www.yeastieboys.co.nz/beer/digital-ipa/</div></body></html>
+http://www.yeastieboys.co.nz/beer/digital-ipa/
+</html>
